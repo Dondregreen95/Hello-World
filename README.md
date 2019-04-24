@@ -1,6 +1,6 @@
 ## Hello, Im Dondre Green
 
-You can use the [editor on GitHub](https://github.com/Dondregreen95/Hello-World/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello this is an online profolio of my future and current goal, as I travel down the path to become a front end web developer.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
